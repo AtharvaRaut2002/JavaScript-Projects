@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+#clock{
+    width: 500px;
+    height: 200px;
+    background-color: black;
+    margin: 100px auto;
+}
